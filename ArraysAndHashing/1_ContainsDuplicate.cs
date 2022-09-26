@@ -14,6 +14,9 @@ public bool ContainsDuplciate(int[] nums) {
 }
 
 /**
+Algorithm:
+Use a hashset to keep track of the numbers already visited, for each number in the nums array, check if the hashset already contains that number.
+
 Space: O(n), all elements stored in a hashset
 Time: O(n), full nums array is iterated through
 */
