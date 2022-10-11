@@ -21,7 +21,7 @@ public class Solution {
 }
 
 /**
-Algorithm:
+Algorithm: Arrays and Hashing
 Use a dictionary to track if the target - nums[i] element was alreadt found in the array. If it was then return that element's index and the current
 Otherwise just add the current index to the dictionary if not already found
 

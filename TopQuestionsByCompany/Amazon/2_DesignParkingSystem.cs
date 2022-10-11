@@ -12,12 +12,17 @@ Implement the ParkingSystem class:
 
 public class ParkingSystem {
 
+    int[] track;
     public ParkingSystem(int big, int medium, int small) {
-        
+        track = new int[3] {big, medium, small};
     }
     
     public bool AddCar(int carType) {
-        
+        if (track[carType - 1] == 0) return false;
+        else {
+            track[carType - 1]--;
+            return true;
+        }
     }
 }
 
@@ -25,4 +30,11 @@ public class ParkingSystem {
  * Your ParkingSystem object will be instantiated and called as such:
  * ParkingSystem obj = new ParkingSystem(big, medium, small);
  * bool param_1 = obj.AddCar(carType);
+ */
+
+/**
+Algorithm: Initialize an array with each quantity stored in its own index. For every car added, decrement that matching index then return false if we can't dec
+
+Space: O(1), constant array space used
+Time: O(1), access the index takes linear time
  */

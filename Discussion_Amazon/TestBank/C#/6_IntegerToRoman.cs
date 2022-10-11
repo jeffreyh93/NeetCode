@@ -25,6 +25,26 @@ Given an integer, convert it to a roman numeral.
 
 public class Solution {
     public string IntToRoman(int num) {
-        
+        int[] values = new int[13] {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+        string[] symbols = new string[] {13} {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+
+        StringBuilder ret = new StringBuilder();
+
+        for (int i = 0; i < values.Length; i++) {
+            while (values[i] <= num) {
+                ret.Append(symbols[i]);
+                num -= values[i];
+            }
+        }
+        return ret.ToString();
     }
 }
+
+/**
+Algorithm: Greedy / Arrays
+Use greedy algorithm to sort the possible values from the largest to smallest. For every index check if that element <= num, if it is then append the 
+return string by that symbol then decrease num by that amount. 
+
+Space: O(1), no extra space used
+Time: O(1), constant time complexity because there is a fixed upper limit, not dependent on input
+*/
