@@ -33,7 +33,7 @@ public class Solution {
 }
 
 /**
-Algorithm:
+Algorithm: LinkedLists
 Use two list node ptr to iterate through both. Only terminate the loop once both lists are found to be null, otherwise iterate the non-null pointers.
 Every iteration get the sum between curr ptrs and the carry. When we leave the loop add an extra node if carry != 0
 

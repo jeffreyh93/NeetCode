@@ -42,7 +42,7 @@ public class Solution {
 }
 
 /**
-Algorithm:
+Algorithm: Strings
 Account for multiple edge cases;
     continue iterating through the string until no longer white space. if we reached the end of the string then just return 0
     if the next char is '-' then the result is negative otherwise it is assumed to be positive

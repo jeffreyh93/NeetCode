@@ -36,7 +36,7 @@ public class Solution {
 }
 
 /**
-Algorithm:
+Algorithm: Strings
 For every char in the string, expand around that index in the odd and even directions. Compare those lengths to the max then track the max len and start idx
 
 Space: O(1), no extra space used
