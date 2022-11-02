@@ -26,3 +26,10 @@ class Solution {
         return ret;
     }
 }
+
+/**
+Algorithm: Maintain two separate arrays, one in the right direction and another in the left direction. Set the left / right most index with a value of 1 then every iteration until the index, multiply the nums value at that index * the left index. ie, left[i] = nums[i - 1] * left[i - 1], right[i] = nums[i  + 1] * right[i + 1]. Then when creating the return array, just multiply the left index by the right index, ie. ret[i] = left[i] * right[i]
+
+Space: O(n), using a left and right array to keep track
+Time: O(n), one pass through the array
+*/
