@@ -1,0 +1,158 @@
+https://jobs-emplois.cse-cst.gc.ca/en/node/3438
+
+About CSE and the Job
+What is CSE?
+
+In short, CSE is a technical intelligence organization that helps protect Canadians.
+
+Communications Security Establishment (CSE) is Canada's national cryptologic agency. Unique within Canada's security and intelligence community, CSE’s team of secure system creators, code-makers, and codebreakers provide the Government of Canada with Cyber Security and foreign signals intelligence (SIGINT) services. CSE is the national hub for cyber operations to defend Canada and advance national interests, as well as providing technical and operational assistance to federal law enforcement and security agencies.
+
+CSE is committed to diversity and inclusion, as well as offering training opportunities and skill development to all employees. (More information, please see below under “CSE Employment” or visit our CSE Diversity and Inclusion page.)
+
+What’s the job?
+
+CSE is looking for software developers of all experience levels to work in a collaborative, diverse and innovative operational environment. As a software developer, you will work on meaningful projects which will have a significant impact on Canada’s security posture (including Cyber Security and SIGINT) and ensuring the safety of Canadians.
+
+What are we looking for?
+
+We are looking for entry-level, intermediate, and experienced software developers who enjoy collaborating with others, and contributing to a supportive team environment, in order to find solutions to interesting and complex technical problems. You should be someone who wishes to work in a continuous learning culture, who looks to apply and expand your current knowledge, and who is excited to work with a team to build reliable and creative solutions to meet your clients’ unique needs and fulfill CSE’s mandate.
+
+Salary
+Salaries range from $91,585 to $124,208, depending on the level. (More information below under “Additional Details”.)
+
+Location
+All jobs are in Ottawa, Ontario. Flexible work arrangements, including telework for a portion of the work week, may be possible. For more information on location, please visit CSE's page on "Where we work". CSE locations meet current accessibility standards.
+
+Area of Selection
+Open to Canadian Citizens
+
+Required Qualifications
+You must clearly demonstrate in your application how you meet these required qualifications:
+
+Language Requirements
+English Essential
+
+Required Education
+An acceptable combination of education (i.e. professional certification, college diploma, university degree) in a field related to the position and relevant experience (see next).
+
+Fields related to the position include, but are not limited to: Computer Science; Engineering (e.g. Computer, Software, Electrical); Mathematics.
+
+The educational program must be recognized in Canada and you must be able to provide proof of education credentials. Students graduating within the next twelve (12) months are eligible to apply.
+
+Required Experience
+Programming experience in one (at a minimum) or more of the following: designing, developing, testing, deploying, maintaining, or improving software with at least one modern language such as but not limited to Java, C, C++, Python, or modern web languages and frameworks.
+
+Recent graduates should note that school projects can be considered as relevant experience.
+
+Required Competencies
+(Competencies is our term for skills and/or knowledge. These required competencies are the skills/knowledge we need to see in your application, interviews, etc., for you to be successful.)
+
+Technical competencies
+Application Development
+Knowledge and ability to design, define, develop, construct, enhance, support, and maintain application software on one or more platforms.
+
+Knowledge of Information Technology
+Possesses a generalist’s knowledge of all areas in IT, including but not limited to:Software application development, data storage systems, IT security, IT architecture, system administration, networking, and telecommunications
+
+Behavioural competencies
+Cognitive Thinking Skills
+Responding to challenges with innovative solutions, products, or services by questioning conventional means, using intuition, experimentation & fresh perspectives; understanding, analyzing, synthesizing, and relating complex information and abstract variables.
+
+Working in a Team
+Demonstrating effective interpersonal skills & working cooperatively and effectively within & across organizational units to achieve common goals.
+
+Leadership competencies
+Change and Innovation
+Create a culture where flexibility & openness to new ideas are encouraged. Lead transformation with courage & conviction.
+
+Asset Qualifications
+(Assets are “nice-to-have” expertise and competencies we are interested in. It is good if you have them, but please don’t let it stop you from applying if you think you don’t.)
+
+Asset Specialized Experience
+If you have acquired any of the listed Asset Specialized Experience, whether in a professional or academic setting, please clearly demonstrate it in your application. We may take it into consideration to determine your best fit within CSE.
+
+Experience in the field of Cyber Security
+Experience working with Cloud Technologies
+Experience working with Modern Software Development Architectures
+Experience working in DevOps
+Experience working with Databases
+Asset Competencies
+The following asset competencies may be considered later during the assessment phase.
+
+Technical competencies
+Knowledge of the Software Development Process
+Cyber Security
+Data Storage Design
+Data Administration & Management
+Infrastructure / Platforms
+Knowledge of Object-Oriented Programming
+Knowledge of the Quality Assurance Process
+Knowledge of Software Reverse Engineering
+Project Management
+System Integration
+Telecommunications (Data & Voice) Networks
+Web Design and Development
+Geospatial Systems Technology
+Behavioural competencies
+Accountability/Autonomy
+Interactive Communication
+Service
+Leadership competencies
+Achieving Results
+Collaboration
+Integrity, Respect & Awareness
+Lead & Motivate
+Strategy and Vision
+Asset Languages
+In an effort to foster the full recognition and use of both English and French in Canadian society, supporting Part VII of the Official Languages Act, preference may be given to candidates who are currently bilingual in both official languages at a proficiency of BBB or above.  Please ensure to highlight in your application if you are bilingual in both official languages or if you possess valid Second Language Evaluation (SLE) results.  For additional information regarding what a proficiency level of BBB or above means, please click here.
+
+Application Process
+Who Can Apply
+You must be a Canadian citizen and be willing to comply with CSE’s own security policies and standards.
+
+Security Requirements
+You must have no criminal record. The screening process may involve the following:
+
+security interview
+polygraph test
+psychological assessment
+background investigation covering a minimum of your last 10 years history, including credit and financial verifications.
+How to Apply
+You may submit your candidacy online by clicking “APPLY” at the bottom of this page.
+
+If you cannot apply online or have a disability preventing you from applying online, please inform us by contacting careers-carrieres@cse-cst.gc.ca prior to the closing date of this selection process. CSE offers an assessment process that will accommodate any reasonable measures required to enable you to be assessed in a fair and equitable manner. Those measures are available to all candidates for further assessment. Related information received will be addressed confidentially. If you may need such accommodation, please advise us.
+
+What to Expect
+The process will be conducted in the official language of your choice.
+A test will be administered if you successfully pass the application review. It will be used as a screening tool. Make sure to check your spam/junk mailbox regularly for notification of the test.
+Interview(s) will follow if you are successful on the test.
+References (2 supervisors) will be requested from candidates who successfully complete the interview stage. References should be current and previous supervisors; final project supervisors (Professor, TA) for recent graduates are acceptable references. Your references will only be contacted after you have successfully completed the interview(s).
+You will be required to complete the security assessment.  More information regarding this process can be found on CSE's website. 
+The entire selection process – tests, interviews, references, security investigation – may take more than one year to complete.
+
+If you are deemed to be unsuccessful in the assessment process for this particular selection process, you may reapply in twelve (12) months.
+
+Additional Details
+Salary Ranges by Level
+UNMA-07 level: $91,585 - $106,204 per year
+UNMA-08 level: $99,861 - $115,504 per year
+UNMA-09 level: $107,432 - $124, 208 per year
+Your position level is determined by the various assessments in the selection process.
+
+Appointments
+Determinate and indeterminate appointments will be used to staff positions of permanent or temporary tenures within CSE.  All appointments have a one (1) year probation period.
+
+(A “determinate appointment” is employment for a specific period of time with a defined end date. An “indeterminate appointment” is permanent employment.)
+
+Operational Requirements
+Overtime and standby duty may be required.
+
+CSE Employment
+CSE is a separate organization and is not subject to the Public Service Employment Act (PSEA). We have our own values-based staffing regime and as such, have the flexibility to determine qualifications for positions and how these qualifications will be assessed in a selection process. In other words, CSE has its own classification, compensation system, and a different staffing regime. As such, we use a different staffing process and terminology.
+
+CSE is committed to the principle of equity in employment. We are committed to building a workforce that reflects the diversity of Canadians and to creating an open and inclusive workplace. We encourage you to voluntarily indicate if you are part of one of the groups targeted by employment equity: women, Indigenous people, people with disabilities (including people with learning disabilities, development or any other type of disability) and members of visible minorities.
+
+Training and Development
+At CSE, we are proud to offer an inclusive and supportive working environment that encourages open minds and attitudes. As an organization that values and nurtures talent, we are committed to helping you fulfill your potential. With comprehensive training and development opportunities, tailored to your needs and the requirements of your work, we will enable you to flourish in your role and perform to the best of your abilities.
+
+We thank you for your interest in CSE. However, only those selected for further consideration will be contacted.
