@@ -1,0 +1,66 @@
+https://www.interviewbit.com/c-interview-questions/
+
+Why is C called a mid-level programming language?
+What are the features of the C language?
+What is a token?
+What is the use of printf() and scanf() functions? Also explain format specifiers?
+What's the value of the expression 5["abxdef"]?
+What is a built-in function in C?
+What is a Preprocessor?
+In C, What is the #line used for?
+How can a string be converted to a number?
+How can a number be converted to a string?
+What is recursion in C?
+Why doesn’t C support function overloading?
+What is the difference between global int and static int declaration?
+What is a pointer in C?
+Difference between const char* p and char const* p?
+What is pointer to pointer in C?
+Why n++ executes faster than n+1 ?
+What is typecasting in C?
+What are the advantages of Macro over function?
+What are Enumerations?
+When should we use the register storage specifier?
+
+Specify different types of decision control statements?
+What is an r-value and l-value?
+What is the difference between malloc() and calloc()?
+What is the difference between struct and union in C?
+What is call by reference in functions?
+What is pass by reference in functions?
+What is a memory leak? How to avoid it?
+What is Dynamic memory allocation in C? Name the dynamic allocation functions.
+What is typedef?
+Why is it usually a bad idea to use gets()? Suggest a workaround.
+What is the difference between #include "..." and #include <...>?
+What are dangling pointers? How are dangling pointers different from memory leaks?
+What is the difference between ‘g’ and “g” in C?
+What is a near pointer and a far pointer in C?
+Which structure is used to link the program and the operating system?
+Suppose a global variable and local variable have the same name. Is it possible to access a global variable from a block where local variables are defined?
+Which is better #define or enum?
+
+How can you remove duplicates in an array?
+Can we compile a program without a main() function?
+Write a program to get the higher and lower nibble of a byte without using shift operator?
+How do you override a defined macro?
+Write a C program to check if it is a palindrome number or not using a recursive method.
+C program to check the given number format is in binary or not.
+C Program to find a sum of digits of a number using recursion.
+Can you tell me how to check whether a linked list is circular?
+What is the use of a semicolon (;) at the end of every program statement?
+How to call a function before main()?
+Differentiate between the macros and the functions.
+Differentiate Source Codes from Object Codes
+What are header files and what are its uses in C programming?
+When is the "void" keyword used in a function
+What is dynamic data structure?
+Add Two Numbers Without Using the Addition Operator
+Subtract Two Number Without Using Subtraction Operator
+Multiply an Integer Number by 2 Without Using Multiplication Operator
+Check whether the number is EVEN or ODD, without using any arithmetic or relational operators
+Reverse the Linked List. Input: 1->2->3->4->5->NULL Output: 5->4->3->2->1->NULL
+Check for Balanced Parentheses using Stack
+Program to find n’th Fibonacci number
+Write a program to find the node at which the intersection of two singly linked lists begins.
+Merge Two sorted Linked List

@@ -1,0 +1,55 @@
+https://www.edureka.co/blog/interview-questions/c-programming-interview-questions/
+
+What are the basic Datatypes supported in C Programming Language?
+What do you mean by Dangling Pointer Variable in C Programming?
+What do you mean by the Scope of the variable? What is the scope of the variables in C?
+What are static variables and functions?
+Differentiate between calloc() and malloc()
+What are the valid places where the programmer can apply Break Control Statement?
+How can we store a negative integer?
+Differentiate between Actual Parameters and Formal Parameters.
+Can a C program be compiled or executed in the absence of a main()?
+What do you mean by a Nested Structure?
+What is a C Token?
+What is preprocessor?
+Why is C called the mother of all languages?
+Mention the features of C programming language
+What is the purpose of printf() and scanf() in C?
+What is an array?
+What is /0 character?
+What is the main difference between compiler and interpreter
+Can I use int datatype to store value 32768?
+
+How is a function declared in C?
+What is dynamic memory allocation? Mention the syntax
+What do you mean by Dangling Pointer Variable in C?
+Where can we not use & (address operator) in C?
+Write a simple example of a structure in c
+Differentiate between call by value and call by references
+Differentiate between getch() and getche()
+Explain toupper() with an example
+Write code to generate random numbers in C
+Can i create a customized Head File in C?
+What do you mean by memory leak?
+Explain local static variables and what is their use?
+Difference between declaring a header file with <> and ""
+When to use register storage specifier
+Which statement is efficient and why? x = x + 1; or x++?
+Can I declare the same variable name to the variables which have different scopes?
+Which operator can be used to access union data members if the union variable is declared as a pointer?
+Mention file operations in c
+What are the different storage class specifiers in C?
+What is typecasting?
+Write C program to print hello world with using semicolon
+Write a program to swap two numbers without using the third variable
+
+How can you print a string with the symbol % in it?
+Write a code to print the following pattern.
+Explain the # pragma directive.
+How can you remove duplicates in an array?
+What is Bubble Sort Algorithm? Explain with a program.
+What is Round-robin algorithm? Write a code for Round Robin Scheduling.
+Which structure is used to link the program and the operating system?
+What are the limitations of scanf() and how can it be avoided?
+Differentiate between the macros and the functions.
+Suppose a global variable and local variable have the same name. Is it is possible to access a global variable from a block where local variables are defined?
