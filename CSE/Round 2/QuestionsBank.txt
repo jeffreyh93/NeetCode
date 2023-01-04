@@ -1,0 +1,31 @@
+Geeks for Geeks
+https://www.geeksforgeeks.org/c-language-2-gq/
+https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-1/?ref=rp
+https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-2/?ref=rp
+https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-3/?ref=rp
+https://www.geeksforgeeks.org/c-interview-questions/
+
+QuesCol - 55+ Questions
+https://quescol.com/interview-preparation/c-interview-questions
+https://quescol.com/interview-preparation/c-coding-questions
+
+javaTpoint - 50 Questions
+https://www.javatpoint.com/c-interview-questions
+
+simplilearn - 30 Questions
+https://www.simplilearn.com/tutorials/c-tutorial/c-programming-interview-questions#advanced_c_programming_interview_questions
+
+software testing help - 40 Questions
+https://www.softwaretestinghelp.com/c-programming-interview-questions/
+
+hackr - 50 Questions
+https://hackr.io/blog/c-interview-questions
+
+guru99 - 100 questions
+https://www.guru99.com/c-programming-interview-questions.html
+
+naukri - 80+ questions
+https://www.naukri.com/learning/articles/c-programming-interview-questions-answers/
+
+hackertrail - 50 questions
+https://www.hackertrail.com/talent/backend/top-c-programming-interview-questions-answers/
