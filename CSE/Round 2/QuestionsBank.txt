@@ -1,3 +1,7 @@
+Tutorialspoint
+https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm
+https://www.unf.edu/~wkloster/2220/ppts/cprogramming_tutorial.pdf
+
 Geeks for Geeks
 https://www.geeksforgeeks.org/c-language-2-gq/
 https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-1/?ref=rp
@@ -29,3 +33,6 @@ https://www.naukri.com/learning/articles/c-programming-interview-questions-answe
 
 hackertrail - 50 questions
 https://www.hackertrail.com/talent/backend/top-c-programming-interview-questions-answers/
+
+w3 Resource
+https://www.w3resource.com/c-programming-exercises/
