@@ -1,6 +1,26 @@
 Tutorialspoint
 https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm
 https://www.unf.edu/~wkloster/2220/ppts/cprogramming_tutorial.pdf
+    - Jan 9, list of study items
+        -> extern, const, register, volatile keyword
+        -> typecasting
+            - automatic conversion scenarios
+            - printing format specifier for a different type var
+            - base conversion
+        -> comma operator
+        -> double pointers
+            - applications
+        -> structure padding, packing
+        -> unions
+        -> multithreading
+        -> lvalue vs rvalue
+        -> function pointers
+        -> stack vs heap memory
+        -> strcpy, strlen, sizeof(string), strcmp
+        -> Static vs dynamic linkage
+        -> sorting algorithms; bubble, insertion, and quick
+        -> search algorithms; binary
+        -> implement memcpy, memmove, memset
 
 Geeks for Geeks
 https://www.geeksforgeeks.org/c-language-2-gq/

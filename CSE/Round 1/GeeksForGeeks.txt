@@ -1,0 +1,50 @@
+https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-1/
+https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-2/
+https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-3/
+
+What is the difference between declaration and definition of a variable/function
+- in the case of variable when declaring, we are giving the variable a data type and giving it a name
+    - when defining the variable, we are declaring it and giving it a value
+- in the case of function when declaring, we are declaring the return type, name, and arguments
+    - when defining the function, we are declaring it and giving the function body and identifying what values to return when exiting
+
+What are different storage class specifiers in C?
+- auto = default for variables, means we are giving it local scope
+- extern = extends the scope of the variable, useful when we want to access a variable from another file
+- static = the value of the variable persists even when exiting the scope, only initialized once
+- register = useful when we want repetitive access to the variable, stores the cpu register instead of memory
+
+What is scope of a variable? How are variables scoped in C?
+- it defines the lifetime of the variable from which we can access it. by default it is local / auto scoped
+
+How will you print "Hello World" without the use of semicolon?
+
+int main() {
+    if (printf("Hello World")) {}
+}
+
+When should we use pointers in our C program?
+- When we want to simulate pass by reference
+    - any change to the variable passed by reference to the function will have its reflected outside of the function
+- To get the address of the variable or function
+
+What is NULL pointer?
+- indicates that the pointer does not point to a valid location, ideal to use when we don't know the value at time of declaration
+
+What is dangling pointer?
+- pointer that references a location in memory and has been freed / deleted
+    - the pointer that still references that location is called dangling
+
+What is memory leak?
+- in cases where we have allocated memory then the program exits scope without the use of free or deallocation
+- since memory is still being consumed by the program, it can cause memory leaks
+
+What are local static variables? What is their use?
+- local static variables are used to have a variable preserve its value after the program exits scope
+- any additional call to that function will have its value preserved, only initialized once
+
+What are static functions? What is their use?
+- by default, functions are global by default which means all files that include it will be able to call the function
+- if we define a function as static, only the file in which it is defined can use that function. It is useful when we want to give the same name to a function but provide different definitions across different files
+
+What are the 
